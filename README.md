@@ -48,11 +48,11 @@ Stop Time 2023-03-16 17:04:29
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 19470
-| Syslog                   | 3028
+| SecurityEvent            | 3960
+| Syslog                   | 1028
 | SecurityAlert            | 10
-| SecurityIncident         | 348
-| AzureNetworkAnalytics_CL | 843
+| SecurityIncident         | 178
+| AzureNetworkAnalytics_CL | 68396
 
 ## Attack Maps Before Hardening / Security Controls
 
@@ -66,11 +66,11 @@ Stop Time	2023-03-19 15:37
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 8778
+| SecurityEvent            | 1549
 | Syslog                   | 25
 | SecurityAlert            | 0
 | SecurityIncident         | 0
-| AzureNetworkAnalytics_CL | 0
+| AzureNetworkAnalytics_CL | 60
 
 ## Conclusion
 
